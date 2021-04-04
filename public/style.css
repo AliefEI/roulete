@@ -1,0 +1,59 @@
+*{
+  box-sizing: border-box;
+}
+
+.jumbotron{
+  height: 800px;
+  background-color: rgb(41, 165, 41);
+}
+
+h1{
+  margin-top: 0px;
+  margin-bottom: 30px;
+  width: 100%;
+}
+
+.table{
+  float: left;
+  width: 35%;
+  height: 300px;
+}
+
+body{
+  padding-top:50px;
+  word-wrap:break-word;
+  background-color: rgb(14, 87, 14);
+}
+img{
+  height: 575px;
+  width: 300px
+}
+
+.gameBoard{
+  float: left;
+  width: 65%;
+  text-align: center;
+  padding-left: 10%;
+}
+.lastGamePlayed{
+  float: left;
+  width: 65%;
+  text-align: center;
+  padding-top: 30px;
+  /* padding-left: 10%; */
+}
+
+.loginSection{
+  font-size: 25px;
+}
+
+form{
+  width: 500px;
+  height: 20px;
+}
+
+input{
+  padding-left: 30%;
+  width: 400px;
+  height: 50px;
+}
